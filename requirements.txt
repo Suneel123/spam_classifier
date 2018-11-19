@@ -1,0 +1,12 @@
+numpy==1.14.5
+pandas==0.22.0
+scipy==1.1.0
+scikit-learn==0.19.1
+nltk==3.3
+flask==1.0.2
+pytest==3.2.1
+flask-testing==0.7.1
+blinker==1.4.0
+flask-sqlalchemy==2.3.2
+flask-migrate==2.2.1
+flask-wtf==0.14.2
